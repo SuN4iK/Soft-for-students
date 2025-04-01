@@ -11,7 +11,7 @@ import java.util.List;
 public class DBManager {
     static final String URL = "jdbc:postgresql://localhost:5432/myProject";
     static final String USERNAME = "posgres";
-    static final String PASSWORD = "pspKxavk2";
+    static final String PASSWORD = "Неа, его тут нет";
 
     public static List<Student> select() throws ClassNotFoundException {
         List<Student> products = new List<>();
